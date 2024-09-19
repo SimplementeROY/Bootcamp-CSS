@@ -1,0 +1,9 @@
+p {
+    background-color: #b3b;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+section p {
+    background-color: aquamarine;
+}

@@ -1,0 +1,9 @@
+body {
+    /* background-color: blue; */
+    background-image: url(../../HTML/4_imagenes/images/razas-perro-pequenos-grandes-m.jpg);
+    /* background-color: aquamarine; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
